@@ -1,304 +1,145 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Bachir Benmalek",
     "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "image": "/me_avatar1.png",
+    "email": "bachir.benmalek@gmail.com",
+    "phone": "+33 7 81 84 33 00",
+    "url": "https://bachirbenmaleke.dev",
+    "summary": "Développeur Full Stack avec une forte polyvalence sur l'ensemble des couches d'une application, aussi bien backend que frontend, ainsi que dans le domaine de la data et de l'IA. Capable d'apporter une réelle valeur ajoutée aux projets grâce à une expertise technique étendue.",
+    "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "75",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "Bachir Benmalek",
+        "url": "https://www.linkedin.com/in/bachir-benmalek-a427a52a2/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "bachir99999",
+        "url": "https://github.com/bachir99999"
+      },
+      {
+        "network": "LeetCode",
+        "username": "Nine09Y",
+        "url": "https://leetcode.com/u/Nine09Y/"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Infotel",
+      "position": "Développeur Fullstack",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "location": "Paris, France",
+      "url": "https://infotel.com/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-10-01",
+      "summary":  "Développement et maintenance d'applications en méthode agile scrum.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Participation active à une équipe de développement Scrum",
+        "Mise en place de pipelines CI/CD avec Jenkins et Docker",
+        "Développement d'APIs et interfaces complexes"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Développement d'applications fullstack avec React, Nest, Spring",
+        "Tests unitaires avec Jest",
+        "Utilisation de Docker, Jenkins, Git pour l’intégration continue"
       ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
+"achievements": [
+  "Réduction des temps de déploiement de 40 % grâce à l'automatisation des pipelines CI/CD",
+  "Amélioration de la qualité du code via la mise en place de tests automatisés et d'outils de revues de code (sonarqube)",
+  "Contribution à la refonte de modules critiques, réduisant la dette technique et augmentant la stabilité en production"
+],
       "skills": [
+        "JavaScript",
         "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
+        "Nest",
         "SQL",
+        "TypeORM",
+        "Docker",
+        "Jenkins",
         "Git"
       ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
+      "institution": "Master Logiciels et Ingénierie des Données",
+      "url": "",
+      "area": "Université Gustave Eiffel",
       "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
+      "startDate": "2022-09-01",
+      "endDate": "2024-06-01",
+      "score": "",
+      "courses": []
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "institution": "Licence Mathématique & Informatique",
+      "url": "",
+      "area": "Université Gustave Eiffel",
+      "studyType": "Licence",
+      "startDate": "2019-09-01",
+      "endDate": "2022-06-01",
+      "score": "",
+      "courses": []
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    }
-  ],
+  "certificates": [],
+  "skills": {
+    "languages": [
+      { "name": "HTML" },
+      { "name": "CSS" },
+      { "name": "JavaScript" },
+      { "name": "TypeScript" },
+      { "name": "Java" },
+      { "name": "Scala" },
+      { "name": "Python" },
+      { "name": "C" },
+      { "name": "SQL" },
+      { "name": "GraphQL" },
+      { "name": "Swift" },
+      { "name": "Kotlin" }
+    ],
+    "frameworks": [
+      { "name": "React" },
+      { "name": "Next.js" },
+      { "name": "Nest" },
+      { "name": "Spring" },
+      { "name": "SwiftUI" },
+      { "name": "Flutter" },
+      { "name": "Node" },
+      { "name": "Tailwind" },
+      { "name": "Android" }
+    ],
+    "tools": [
+      { "name": "Git" },
+      { "name": "GitHub" },
+      { "name": "Gitlab" },
+      { "name": "IntelliJ" },
+      { "name": "Docker" },
+      { "name": "Jenkins" },
+      { "name": "Postman" },
+      { "name": "MySQL" },
+      { "name": "VScode" },
+      { "name": "Figma" }
+    ]
+  },
   "languages": [
     {
-      "language": "English",
+      "language": "Francais",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "Anglais",
       "fluency": "Intermediate"
     }
   ],
@@ -307,58 +148,58 @@
       "name": "Technology",
       "keywords": [
         "AI",
-        "Blockchain"
+        "Blockchain",
+        "Boxe",
+        "MMA",
+        "Astronomie",
+        "Nutrition",
+        "Littérature"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Portfolio personnel",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Un site portfolio personnel pour présenter mes projets et compétences",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Développé avec Astro, React et Tailwind CSS",
+        "Comprend un blog et un formulaire de contact"
       ],
-      "url": "https://johndoe.dev",
+      "url": "https://bachirbenmalek.dev",
       "github": "https://github.com"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "Réseau de Neurones Artificiels",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Réseau de neurones profond (deep neural network) entraîné depuis zéro avec NumPy",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Le réseau est capable de résoudre des problemes non linéaire",
+        "Implémentation des fonctions de propagation et de gradient"
       ],
-      "url": "https://ecommerce.com"
+      "github": "https://github.com/bachir99999/deeplearning-artificialneuron/blob/main/deeplearning_artificialneuron.py"
+    },
+    {
+      "name": "Task Manager Front",
+      "isActive": false,
+      "description": "Application de gestion des tâches avec tableaux Kanban et fonctionnalité de drag and drop",
+      "highlights": [
+        "Construit avec React 19 et prime react",
+        "Utilisation des fonctionnalités avancées de React 19 et de la récupération de données (fetching)."
+      ],
+      "github": "https://github.com/bachir99999/taskforce-front"
+    },
+    {
+      "name": "Task Manager API",
+      "isActive": false,
+      "description": "Application Spring Boot de gestion de tâches, avec une API REST permettant de créer, modifier, afficher et supprimer des tâches assignées à des utilisateurs.",
+      "highlights": [
+        "Mise en œuvre des bonnes pratiques pour la conception et l'utilisation des API",
+        "Tests unitaires avec Junit et Mockito"
+      ],
+      "github": "https://github.com/bachir99999/taskforce"
     }
   ]
 }

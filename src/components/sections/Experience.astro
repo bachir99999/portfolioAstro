@@ -8,7 +8,7 @@ import JavaScript from "@/icons/javascript.astro"
 import TypeScript from "@/icons/type.astro"
 import React from "@/icons/react.astro"
 import Node from "@/icons/node.astro"
-import MySQL from "@/icons/sql.astro"
+import MySQL from "@/icons/SQL.astro"
 import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
 import Tailwind from "@/icons/tailwind.astro"
@@ -17,6 +17,10 @@ import Swift from "@/icons/swift.astro"
 import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
 import Flutter from "@/icons/flutter.astro"
+import Nest from "@/icons/Nest.astro"
+import Spring from "@/icons/Spring.astro"
+import Docker from "@/icons/Docker.astro"
+import Jenkins from "@/icons/jenkins.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -34,9 +38,13 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
+  Nest,
+  Spring,
+  Docker,
+  Jenkins
 }
 ---
-<Section className={Astro.props.className} title="Experience">
+<Section className={Astro.props.className} title="Expériences">
   <ul class="flex flex-col">
     {work.map(({ name, startDate, endDate, position, summary, responsibilities, achievements, url, skills, location, location_type }) => {
       const startYear = new Date(startDate).getFullYear()
