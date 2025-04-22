@@ -93,7 +93,14 @@
       "courses": []
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "Elements of AI",
+      "date": "2025-04-21",
+      "issuer": "University of Helsinki",
+      "url": "https://certificates.mooc.fi/validate/klybji9zd2"
+    }
+  ],
   "skills": {
     "languages": [
       { "name": "HTML" },
