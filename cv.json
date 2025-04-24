@@ -74,7 +74,7 @@
   "education": [
     {
       "institution": "Master Logiciels et Ingénierie des Données",
-      "url": "",
+      "url": "https://igm.univ-gustave-eiffel.fr/formations/master-2-logiciels",
       "area": "Université Gustave Eiffel",
       "studyType": "Master",
       "startDate": "2022-09-01",
@@ -84,7 +84,7 @@
     },
     {
       "institution": "Licence Mathématique & Informatique",
-      "url": "",
+      "url": "https://igm.univ-gustave-eiffel.fr/formations/licence-3-informatique",
       "area": "Université Gustave Eiffel",
       "studyType": "Licence",
       "startDate": "2019-09-01",

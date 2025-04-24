@@ -7,7 +7,7 @@ import JavaScript from "@/icons/javascript.astro";
 import TypeScript from "@/icons/type.astro";
 import React from "@/icons/react.astro";
 import Node from "@/icons/node.astro";
-import MySQL from "@/icons/Mysql.astro"
+import MySQL from "@/icons/Mysql.astro";
 import Git from "@/icons/git.astro";
 import GitHub from "@/icons/GitHub.astro";
 import Tailwind from "@/icons/tailwind.astro";
@@ -32,7 +32,7 @@ import { skills } from "@cv";
 import IntelliJ from "@/icons/IntelliJ.astro";
 import Scala from "@/icons/Scala.astro";
 import GraphQL from "@/icons/GraphQL.astro";
-
+import SQL from "@/icons/SQL.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -64,29 +64,29 @@ const SKILLS_ICONS: Record<string, any> = {
   VScode,
   IntelliJ,
   Scala,
-  GraphQL
+  GraphQL,
+  SQL,
 };
-
 ---
 
 <Section className={Astro.props.className} title="Skills">
   {
     Object.entries(skills).map(([category, items]) => (
       <div class="mb-6 w-full">
-        <h3 class="mb-2 text-sm font-semibold capitalize text-skin-muted">{category}</h3>
-        <ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-2 [&>li>svg]:size-5 [&>li]:text-sm">
-          {
-            items.map(({ name }) => {
-              const iconName = name === "Next.js" ? "Next" : name;
-              const Icon = SKILLS_ICONS[iconName];
+        <h3 class="mb-2 text-sm font-semibold capitalize text-skin-muted">
+          {category}
+        </h3>
+        <ul class="inline-flex flex-wrap gap-2 [&>li>svg]:size-5 [&>li>svg]:text-skin-hue [&>li]:text-sm">
+          {items.map(({ name }) => {
+            const iconName = name === "Next.js" ? "Next" : name;
+            const Icon = SKILLS_ICONS[iconName];
 
-              return (
-			  <li class="border-skin-hue/20 bg-skin-button-accent/20 flex items-center gap-0.5 rounded-md px-2 py-0.5 text-xs text-skin-muted print:border-none print:bg-transparent print:p-0 print:text-zinc-800">
-          {Icon && <Icon />} <span>{name}</span>
-        </li>
-              );
-            })
-          }
+            return (
+              <li class="flex items-center gap-0.5 rounded-md border-skin-hue/20 bg-skin-button-accent/20 px-2 py-0.5 text-xs text-skin-muted print:border-none print:bg-transparent print:p-0 print:text-zinc-800">
+                {Icon && <Icon />} <span>{name}</span>
+              </li>
+            );
+          })}
         </ul>
       </div>
     ))
