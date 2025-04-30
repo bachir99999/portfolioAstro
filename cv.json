@@ -194,7 +194,8 @@
       "description": "Application de gestion des tâches avec tableaux Kanban et fonctionnalité de drag and drop",
       "highlights": [
         "Construit avec React 19 et prime react",
-        "Utilisation des fonctionnalités avancées de React 19 et de la récupération de données (fetching)."
+        "Utilisation des fonctionnalités avancées de React 19 et de la récupération de données (fetching)",
+        "Gestion de l'authentification et du token avec l'API"
       ],
       "github": "https://github.com/bachir99999/taskforce-front"
     },
@@ -204,6 +205,7 @@
       "description": "Application Spring Boot de gestion de tâches, avec une API REST permettant de créer, modifier, afficher et supprimer des tâches assignées à des utilisateurs.",
       "highlights": [
         "Mise en œuvre des bonnes pratiques pour la conception et l'utilisation des API",
+        "Sécurité basée sur Spring Security avec authentification par JWT et CORS restreint au frontend",
         "Tests unitaires avec Junit et Mockito"
       ],
       "github": "https://github.com/bachir99999/taskforce"
