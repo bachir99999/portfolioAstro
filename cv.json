@@ -208,7 +208,8 @@
     },
     {
       "name": "Task Manager API",
-      "isActive": false,
+      "isActive": true,
+      "url":"https://github.com/bachir99999/taskforce/blob/master/README.md",
       "description": "Application Spring Boot de gestion de tâches, avec une API REST permettant de créer, modifier, afficher et supprimer des tâches assignées à des utilisateurs.",
       "highlights": [
         "Mise en œuvre des bonnes pratiques pour la conception et l'utilisation des API",
