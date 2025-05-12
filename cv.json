@@ -196,7 +196,8 @@
     },
     {
       "name": "Task Manager Front",
-      "isActive": false,
+      "isActive": true,
+      "url":"https://github.com/bachir99999/taskforce-front/blob/main/README.md",
       "description": "Application de gestion des tâches avec tableaux Kanban et fonctionnalité de drag and drop",
       "highlights": [
         "Construit avec React 19 et prime react",
