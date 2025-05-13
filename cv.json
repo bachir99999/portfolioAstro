@@ -6,7 +6,7 @@
     "email": "bachir.benmalek@gmail.com",
     "phone": "+33 7 81 84 33 00",
     "url": "https://bachirbenmaleke.dev",
-    "summary": "Développeur Full Stack avec une forte polyvalence sur l'ensemble des couches d'une application, aussi bien backend que frontend, ainsi que dans le domaine de la data et de l'IA. Capable d'apporter une réelle valeur ajoutée aux projets grâce à une expertise technique étendue.",
+    "summary": "Développeur Full Stack passionné, j’interviens sur toutes les strates d’une application du back‑end (Java/Spring Boot, Python, Node.js) au front‑end (React, Angular, Vue.js), en passant par la data (PostgreSQL, MongoDB, Kafka, Spark, Redis) et l’IA (deep learning, systèmes de recommandation, traitement de flux). Fort de deux ans d’alternance chez Infotel Paris, j’ai participé à la conception et au déploiement d’applications, mis en place des pipelines CI/CD (Jenkins, Docker, Kubernetes) et optimisé des performances à grande échelle, tout en concevant des architectures modulaires et évolutives. Toujours avide d’apprendre, je complète régulièrement mes compétences via des projets personnels, des certifications (OCI, data science, IA) pour rester à la pointe des technologies.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -174,6 +174,31 @@
   ],
   "projects": [
     {
+      "name": "Task Manager Front",
+      "isActive": true,
+      "url":"https://github.com/bachir99999/taskforce-front/blob/main/README.md",
+      "description": "Application de gestion des tâches avec tableaux Kanban et fonctionnalité de drag and drop",
+      "highlights": [
+        "Construit avec React 19 et prime react",
+        "Utilisation des fonctionnalités avancées de React 19 et de la récupération de données (fetching)",
+        "Gestion de l'authentification et du token avec l'API",
+        "Page statistique avec chart.js"
+      ],
+      "github": "https://github.com/bachir99999/taskforce-front"
+    },
+    {
+      "name": "Task Manager API",
+      "isActive": true,
+      "url":"https://github.com/bachir99999/taskforce/blob/master/README.md",
+      "description": "Application Spring Boot de gestion de tâches, avec une API REST permettant de créer, modifier, afficher et supprimer des tâches assignées à des utilisateurs.",
+      "highlights": [
+        "Mise en œuvre des bonnes pratiques pour la conception et l'utilisation des API",
+        "Sécurité basée sur Spring Security avec authentification par JWT et CORS restreint au frontend",
+        "Tests unitaires avec Junit et Mockito"
+      ],
+      "github": "https://github.com/bachir99999/taskforce"
+    },
+        {
       "name": "Portfolio personnel",
       "isActive": false,
       "description": "Un site portfolio personnel pour présenter mes projets et compétences",
@@ -193,30 +218,6 @@
         "Implémentation des fonctions de propagation et de gradient"
       ],
       "github": "https://github.com/bachir99999/deeplearning-artificialneuron/blob/main/deeplearning_artificialneuron.py"
-    },
-    {
-      "name": "Task Manager Front",
-      "isActive": true,
-      "url":"https://github.com/bachir99999/taskforce-front/blob/main/README.md",
-      "description": "Application de gestion des tâches avec tableaux Kanban et fonctionnalité de drag and drop",
-      "highlights": [
-        "Construit avec React 19 et prime react",
-        "Utilisation des fonctionnalités avancées de React 19 et de la récupération de données (fetching)",
-        "Gestion de l'authentification et du token avec l'API"
-      ],
-      "github": "https://github.com/bachir99999/taskforce-front"
-    },
-    {
-      "name": "Task Manager API",
-      "isActive": true,
-      "url":"https://github.com/bachir99999/taskforce/blob/master/README.md",
-      "description": "Application Spring Boot de gestion de tâches, avec une API REST permettant de créer, modifier, afficher et supprimer des tâches assignées à des utilisateurs.",
-      "highlights": [
-        "Mise en œuvre des bonnes pratiques pour la conception et l'utilisation des API",
-        "Sécurité basée sur Spring Security avec authentification par JWT et CORS restreint au frontend",
-        "Tests unitaires avec Junit et Mockito"
-      ],
-      "github": "https://github.com/bachir99999/taskforce"
     }
   ]
 }
