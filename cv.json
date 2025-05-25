@@ -100,7 +100,13 @@
       "issuer": "Oracle University",
       "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD223E46283FF4FAC6545FB2904AC0D4094FDCE3B75954A882F7454736D44657"
     },
-    
+    {
+      "name": "JavaScript Essentials",
+      "date": "2025-05-15",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://www.credly.com/badges/0e885981-deb1-4dff-ba47-9bc2a12a5d93"
+    },
+
     {
       "name": "Elements of AI",
       "date": "2025-04-21",
