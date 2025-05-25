@@ -211,6 +211,30 @@
       ],
       "github": "https://github.com/bachir99999/taskforce"
     },
+    {
+      "name": "Jeu Rogue Like",
+      "isActive": false,
+      "description": "Un jeu de type Rogue Like développé en C",
+      "highlights": [
+        "Implémentation de la génération procédurale de niveaux",
+        "Système de combat et d'inventaire",
+        "Sauvegarde et chargement de la progression",
+        "Utilisation de la bibliothèque graphique pour l'affichage en console"
+      ],
+      "github": "https://github.com/bachir99999/dungeon-game"
+
+    },
+        {
+      "name": "Compteur de Code C",
+      "isActive": false, 
+      "description": "Analyse puis compile du code C en code assembleur",
+      "highlights": [
+        "Analyse lexicale, syntaxique et sémantique",
+        "Génération de code assembleur",
+        "Affichage des erreurs par ligne, position et type"
+      ],
+      "github": "https://github.com/bachir99999/compilateur_c"
+    },
         {
       "name": "Portfolio personnel",
       "isActive": false,
