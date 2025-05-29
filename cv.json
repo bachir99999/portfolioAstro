@@ -257,7 +257,7 @@
       "isActive": false,
       "description": "Réseau de neurones profond (deep neural network) entraîné depuis zéro avec NumPy",
       "highlights": [
-        "Le réseau est capable de résoudre des problemes non linéaire",
+        "Le réseau est capable de résoudre des problèmes non linéaires",
         "Implémentation des fonctions de propagation et de gradient"
       ],
       "github": "https://github.com/bachir99999/deeplearning-artificialneuron/blob/main/deeplearning_artificialneuron.py"
