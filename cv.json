@@ -231,7 +231,7 @@
 
     },
         {
-      "name": "Compteur de Code C",
+      "name": "Compilateur de Code C",
       "isActive": false, 
       "description": "Analyse puis compile du code C en code assembleur",
       "highlights": [
