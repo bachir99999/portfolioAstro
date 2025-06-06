@@ -218,6 +218,18 @@
       "github": "https://github.com/bachir99999/taskforce"
     },
     {
+  "name": "Athletik (Application Flutter)",
+  "isActive": false,
+  "description": "Une application mobile Flutter pour la gestion et le suivi d'entraînements sportifs, adaptée aux athlètes et coachs.",
+  "highlights": [
+    "Création et gestion de séances d'entraînement personnalisées",
+    "Chronomètres et minuteurs interactifs pour différents types d'exercices (HIIT, Pomodoro, rounds, etc.)",
+    "Interface utilisateur moderne et responsive avec Flutter",
+    "Gestion des cycles de travail/repos et des séries"
+  ],
+  "github": "https://github.com/bachir99999/athletik"
+},
+    {
       "name": "Jeu Rogue Like",
       "isActive": false,
       "description": "Un jeu de type Rogue Like développé en C",
@@ -225,7 +237,8 @@
         "Implémentation de la génération procédurale de niveaux",
         "Système de combat et d'inventaire",
         "Sauvegarde et chargement de la progression",
-        "Utilisation de la bibliothèque graphique pour l'affichage en console"
+        "Utilisation de la bibliothèque graphique pour l'affichage en console",
+        "Gestion des événements de jeu en temps réel (mouvements, attaques, etc.)"
       ],
       "github": "https://github.com/bachir99999/dungeon-game"
 
@@ -261,6 +274,18 @@
         "Implémentation des fonctions de propagation et de gradient"
       ],
       "github": "https://github.com/bachir99999/deeplearning-artificialneuron/blob/main/deeplearning_artificialneuron.py"
-    }
+    },
+    {
+  "name": "Jeu de Splendor",
+  "isActive": false,
+  "description": "Jeu de société Splendor développé en Java, avec une architecture modulaire orientée objet.",
+  "highlights": [
+    "Conception orientée objet pour une application modulaire",
+    "Application de design patterns (Factory, Strategy...) pour une architecture claire et évolutive",
+    "INterface graphique avec Zen5"
+
+  ],
+  "github": "https://github.com/bachir99999/splendor-java" 
+}
   ]
 }
