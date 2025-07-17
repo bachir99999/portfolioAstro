@@ -106,6 +106,12 @@
       "issuer": "IBM",
       "url": "https://www.credly.com/badges/d271d676-bf6b-4696-9f06-c52510aa2b20/public_url"
     },
+    {
+      "name": "Advanced Deep Learning Specialist",
+      "date": "2025-07-17",
+      "issuer": "IBM",
+      "url":"https://www.credly.com/badges/f894ea46-4857-4520-8d2c-f9ed48fe1544/public_url"
+    },
 
     {
       "name": "Deep Learning Essentials with Keras",
