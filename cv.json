@@ -94,11 +94,11 @@
     }
   ],
   "certificates": [
-    {
-      "name": "Oracle Cloud Infrastructure Foundations Associate",
-      "date": "2025-05-17",
-      "issuer": "Oracle University",
-      "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD223E46283FF4FAC6545FB2904AC0D4094FDCE3B75954A882F7454736D44657"
+        {
+      "name": "Advanced Deep Learning Specialist",
+      "date": "2025-07-17",
+      "issuer": "IBM",
+      "url":"https://www.credly.com/badges/f894ea46-4857-4520-8d2c-f9ed48fe1544/public_url"
     },
     {
       "name": "Machine Learning with Python (V2)",
@@ -107,19 +107,35 @@
       "url": "https://www.credly.com/badges/d271d676-bf6b-4696-9f06-c52510aa2b20/public_url"
     },
     {
-      "name": "Advanced Deep Learning Specialist",
-      "date": "2025-07-17",
-      "issuer": "IBM",
-      "url":"https://www.credly.com/badges/f894ea46-4857-4520-8d2c-f9ed48fe1544/public_url"
-    },
-
-    {
       "name": "Deep Learning Essentials with Keras",
       "date": "2025-06-26",
       "issuer": "IBM",
       "url": "https://www.credly.com/badges/90be7790-84c3-4e9f-b13e-bb76f4e8cf1a/public_url"
     },
-
+    {
+      "name": "Neural Networks with PyTorch",
+      "date": "2025-07-27",
+      "issuer": "IBM",
+      "url":"https://www.credly.com/badges/cec0027a-418d-4b6c-9a42-6781c527ec23/public_url"
+    },
+        {
+      "name": "Elements of AI",
+      "date": "2025-04-21",
+      "issuer": "University of Helsinki",
+      "url": "https://certificates.mooc.fi/validate/klybji9zd2"
+    },
+        {
+      "name": "Oracle Cloud Infrastructure Foundations Associate",
+      "date": "2025-05-17",
+      "issuer": "Oracle University",
+      "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD223E46283FF4FAC6545FB2904AC0D4094FDCE3B75954A882F7454736D44657"
+    },
+{
+    "name": "Software Engineering Essentials",
+      "date": "2025-07-27",
+"issuer":"IBM",
+"url":"https://www.credly.com/badges/e1a3d6c7-ec52-4e59-9e22-b634a612bbd6/public_url"
+},
         {
       "name": "JavaScript Essentials II",
       "date": "2025-05-28",
@@ -131,13 +147,6 @@
       "date": "2025-05-25",
       "issuer": "Cisco Networking Academy",
       "url": "https://www.credly.com/badges/0e885981-deb1-4dff-ba47-9bc2a12a5d93"
-    },
-
-    {
-      "name": "Elements of AI",
-      "date": "2025-04-21",
-      "issuer": "University of Helsinki",
-      "url": "https://certificates.mooc.fi/validate/klybji9zd2"
     },
     {
       "name": "Introduction to Cybersecurity",
